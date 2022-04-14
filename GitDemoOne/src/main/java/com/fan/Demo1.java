@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("git");
         System.out.println("fan");
         System.out.println("weiRuan");
+        System.out.println("huawei");
     }
 }
